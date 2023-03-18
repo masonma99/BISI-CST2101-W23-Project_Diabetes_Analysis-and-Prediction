@@ -2,14 +2,13 @@
 ## Project Backgroud
 
 This project comes from CST2101- Python Programming, Alqonguin BISI program. 
-In this project, we are requested to study the a dataset called 'pima', which contains 9 features and 1000 observations. The features include 'Pregnancies, 'Glucose', 
-'Blood pressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age' and 'Outcome'. The last feature 'Outcome' is Class variable with 0 meaning the person 
-is not diabetic or 1 meaning the person is diabetic. 
+In this project, we are requested to study a dataset called 'pima', which contains 9 features and 1000 observations. The features include 'Pregnancies', 'Glucose', 
+'Blood pressure', 'SkinThickness', 'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age' and 'Outcome'. The last feature 'Outcome' is Class variable with '0' meaning the person is not diabetic or '1' meaning the person is diabetic. 
 
 ## Project Objective
 
 The aim of this project is to use the first 8 features in the dataset to make predication on outcome. Two machine learning models, logistic regression and random forest 
-model are used in this study and the rate of accuracy of these two models will be concluded and compared.
+model were adopted in this study and the rate of accuracy of these two models will be calculated and compared.
 
 ## Process and Tools
 
